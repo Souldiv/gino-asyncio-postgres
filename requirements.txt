@@ -1,0 +1,5 @@
+gino
+gino-aiohttp
+aiohttp
+aiohttp_cors
+aiohttp-devtools
