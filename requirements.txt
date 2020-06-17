@@ -1,2 +1,4 @@
 gino-sanic
 sanic==20.3.0
+Sanic_Cors==0.10.0.post3
+
