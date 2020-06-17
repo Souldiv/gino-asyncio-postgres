@@ -1,5 +1,2 @@
-gino
-gino-aiohttp
-aiohttp
-aiohttp_cors
-aiohttp-devtools
+gino-sanic
+sanic==20.3.0

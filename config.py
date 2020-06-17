@@ -14,4 +14,3 @@ DB_ARGS = dict(
     password=os.getenv('DB_PASS', db_password),
     database=os.getenv('DB_NAME', db_name),
 )
-
